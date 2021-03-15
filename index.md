@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Since
 
-You can use the [editor on GitHub](https://github.com/NSRover/Since-Pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+If you ask yourself questions like
+How long has it been since I changed my toothbrush?
+I wonder how long have we been in lockdown now
+How often do I get a haircut?
+When will I stop biting my nails?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This app gives you a straight answer like 
+It’s been 72 days since you changed your toothbrush
+We have been in lockdown for almost 2 years
+You get a haircut about every 24 days
+You are 75% in your goal to give up nail biting, onwards!
 
-### Markdown
+Some things in life don’t need a reminder for a specific time. Yes.. you should be changing your toothbrush every 4 months.. but you don’t want to be reminded about it on the 27th of May in the middle of your date. It’s ok if you do it on 28th or heck even the 27th of June. You just want a way to tell how long it’s been. ✔ Create a Event
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+At times you want to look back on an event with fondness.. or loathing and wonder how long it has been since. Hmmm.. has it really been 6 years since I graduated? ✔ Create a Unique event
 
-```markdown
-Syntax highlighted code block
+Trying to give up a bad habit or an unhealthy obsession? Set a goal that suits you to rewire your brain and break a habit. Reset anytime and see the patterns. ✔ Create a Habit
 
-# Header 1
-## Header 2
-### Header 3
+Designed to quickly add an occurrence and go about your day. Then one fine evening sit.. relax.. analyse entries and ponder what you have been doing with your life. Maybe it’s time to be a good human being and call grandma.
 
-- Bulleted
-- List
+** No Ads: No one likes them **
 
-1. Numbered
-2. List
+** It’s your data, I don’t need it **
+I am not in the business of selling your data. Your data stays on your device and is backed up in your own iCould. I have no use of your data. In fact, this app couldn’t even afford a backend. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NSRover/Since-Pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+** Will this app exist in 20 years? **
+I think the utility of this app comes from long term usage. I started this app to track my own activities and plan to continue doing so. I have been developing on Apple platform for over a decade and I see no reason to discontinue that. 
